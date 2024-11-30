@@ -71,7 +71,7 @@ h4 {
 }
 
 .separator {
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 .logo {
@@ -352,7 +352,7 @@ main {
   right: -1.8px;
   background: linear-gradient(180deg, rgba(24, 185, 207, 0.9) 0%, #3b53a8 100%);
   z-index: -1;
-  border-radius: 1.5rem;
+  border-radius: 1.2rem;
 }
 
 .main-social-links {
@@ -436,7 +436,7 @@ main {
 }
 
 .profile-img {
-  width: 25rem;
+  width: 35rem;
   border-radius: 1.5rem;
   object-fit: fill;
 }
@@ -475,6 +475,7 @@ main {
   background: rgb(255, 255, 255, 0.1);
   box-shadow: 0 1rem 2rem 0 rgba(27, 27, 27, 0.1);
   border-radius: 1.2rem;
+  margin-bottom: 6.5rem;
 }
 
 .project-details-box {
@@ -795,7 +796,7 @@ footer span {
     position: relative;
     min-width: 100%;
     gap: 2.5rem;
-    margin-top: 4.5rem;
+    margin-bottom: 4.5rem;
     background: none;
   }
 
@@ -1035,4 +1036,205 @@ footer span {
   .cta2 {
     width: fit-content;
   }
+}
+
+
+.mantine-ah0492:not(:last-of-type)::before {
+  display: block;
+}
+
+.mantine-ah0492::before {
+  box-sizing: border-box;
+  position: absolute;
+  inset: 0px auto -24px -4px;
+  border-left: 4px dashed rgb(33 52 90);
+  content: "";
+  display: none;
+}
+
+
+.mantine-6rsgjv {
+    box-sizing: border-box;
+    width: 20px;
+    height: 20px;
+    border-radius: 32px;
+    border: 1px solid rgb(55, 58, 64);
+    position: absolute;
+    top: 0px;
+    left: -12px;
+    right: auto;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    background-color: rgb(55, 58, 64);
+    color: rgb(193, 194, 197);
+}
+
+.mantine-ah0492:not(:last-of-type)::before {
+  display: block;
+}
+
+.mantine-ah0492::before {
+  box-sizing: border-box;
+  position: absolute;
+  inset: 0px auto -24px -4px;
+  border-left: 4px dashed rgb(136, 141, 151);
+  content: "";
+  display: none;
+}
+
+.mantine-ah0492 {
+  position: relative;
+  box-sizing: border-box;
+  color: rgb(179, 183, 196);
+  padding-left: 24px;
+  padding-right: 0px;
+  text-align: left;
+}
+.mantine-ah0492:not(:first-of-type) {
+  margin-top: 24px;
+}
+.mantine-kagpcx {
+  position: relative;
+  box-sizing: border-box;
+  color: rgb(193, 194, 197);
+  padding-left: 24px;
+  padding-right: 0px;
+  text-align: left;
+}
+
+.mantine-kagpcx:not(:last-of-type)::before {
+  display: block;
+}
+
+.mantine-kagpcx:not(:first-of-type) {
+  margin-top: 24px;
+}
+.mantine-kagpcx::before {
+  box-sizing: border-box;
+  position: absolute;
+  inset: 0px auto -24px -4px;
+  border-left: 4px solid rgb(245, 245, 245);
+  content: "";
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+.mantine-dedbac:not(:last-of-type)::before {
+  display: block;
+}
+
+.mantine-dedbac {
+  position: relative;
+  box-sizing: border-box;
+  color: rgb(193, 194, 197);
+  padding-left: 24px;
+  padding-right: 0px;
+  text-align: left;
+}
+
+
+.mantine-dedbac::before {
+  border-left-color: rgb(74 55 132);
+}
+
+.mantine-dedbac::before {
+  box-sizing: border-box;
+  position: absolute;
+  inset: 0px auto -24px -4px;
+  border-left: 4px solid rgb(0, 85, 255);
+  content: "";
+  display: none;
+}
+.mantine-dedbac::before {
+  border-left-color: rgb(103, 65, 217);
+}
+
+.mantine-1yywajb {
+  padding-left: 12px;
+  margin-bottom: 50px;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji;
+  background-color: #1A1B1E;
+  color: #C1C2C5;
+  line-height: 1.55;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.mantine-1xxckyb {
+  position: relative;
+  box-sizing: border-box;
+  color: rgb(193, 194, 197);
+  padding-left: 24px;
+  padding-right: 0px;
+  text-align: left;
+}
+.mantine-1xxckyb::before {
+  box-sizing: border-box;
+  position: absolute;
+  inset: 0px auto -24px -4px;
+  border-left: 4px solid rgb(39, 77, 152);
+  content: "";
+  display: none;
+}
+
+.mantine-1xxckyb:not(:first-of-type) {
+  margin-top: 24px;
+}
+
+.mantine-i0hej2 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  -webkit-tap-highlight-color: transparent;
+  color: rgb(88, 136, 233);
+  font-size: 21px;
+  text-decoration: none;
+  font-weight: 500;
+  line-height: 1;
+  margin-bottom: 5px;
+  text-align: left;
+}
+
+.mantine-m2cxvz {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  color: rgb(193, 194, 197);
+  font-size: 12px;
+  line-height: 1.55;
+  margin: 0px;
+  padding-left: 0px;
+  list-style-position: inside;
+}
+
+
+ul::marker, ol::marker {
+  display: none;
+}
+
+ul, ol {
+  list-style-type: none;
+}
+
+
+.mantine-17v32tz {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+  -webkit-tap-highlight-color: transparent;
+  color: rgb(133, 244, 246);
+  font-size: 14px;
+  line-height: 1.55;
+  text-decoration: none;
+  margin-top: 4px;
 }
